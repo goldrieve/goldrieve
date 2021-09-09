@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @goldrieve
+- 👀 I’m interested in 'omics' of parasites
+- 🌱 I’m currently learning python
+- 📫 How to reach me - guy.oldrieve@ed.ac.uk
