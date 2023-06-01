@@ -1,3 +1,1 @@
 - Hi, I’m @goldrieve
-- I’m interested in 'omics' of parasites (specifically Trypanosomes)
-- guy.oldrieve@ed.ac.uk
